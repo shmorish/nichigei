@@ -1,0 +1,3 @@
+# Max/MSP patch, not hand-written source.
+# Keeps it out of GitHub language statistics.
+*.maxpat linguist-detectable=false
